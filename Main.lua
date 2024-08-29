@@ -1,5 +1,5 @@
 
--- Track & Field: Infinite Script made by TringForAllTheBadges
+-- Track & Field: Infinite Script made by mxkxkks
 
 -- DO NOT USE WALKSPEED SCRIPTS WHILE USING THIS SCRIPT OR IT WILL GET FLAGGED AS TELEPORTING!
 -- Leave the vector values alone if you don't know what you're doing. You can lower the values if you encounter a ban.
