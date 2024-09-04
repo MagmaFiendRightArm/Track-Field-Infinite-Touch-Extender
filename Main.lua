@@ -8,17 +8,11 @@
 ]]
 
 -- Track & Field: Infinite Script made by mxkxkks
-
 -- DO NOT USE WALKSPEED SCRIPTS WHILE USING THIS SCRIPT OR IT WILL GET FLAGGED AS TELEPORTING!
-
 -- Leave the vector values alone if you don't know what you're doing. You can lower the values if you encounter a ban.
-
 -- Please leave everything as it is to avoid kick detection.
-
 -- Script revamped to only touch extender since some kids can't comprehend the main point of the script.
-
 -- Made more visual.
-
 -- Resized checkpoints.
 
 local Players = game:GetService("Players")
