@@ -7,7 +7,7 @@
                                                                                
 ]]
 
--- Track & Field: Infinite Script made by mxkxkks
+-- Track & Field: Infinite Script made by MagmaFiendRightArm
 -- DO NOT USE WALKSPEED SCRIPTS WHILE USING THIS SCRIPT OR IT WILL GET FLAGGED AS TELEPORTING!
 -- Leave the vector values alone if you don't know what you're doing. You can lower the values if you encounter a ban.
 -- Please leave everything as it is to avoid kick detection.
